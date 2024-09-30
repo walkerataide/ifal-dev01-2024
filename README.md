@@ -21,16 +21,17 @@ nome = get_string("Digite seu nome: ")
 
 print(f"Olá, {nome}! Você tem {idade} anos e {altura} metros de altura.")
 ```
-Instalação:
+**Instalação:**
 
 Para instalar esta biblioteca, utilize o seguinte comando:
-
+```bash
 pip install ifal_library
+```
 
-Contribuições:
+**Contribuições:**
 
 Contribuições são bem-vindas! Para contribuir, por favor, fork este repositório, faça as suas alterações e abra um pull request.
 
-Licença:
+**Licença:**
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
